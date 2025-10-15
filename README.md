@@ -1,17 +1,26 @@
-    <!DOCTYPE html>
-    <html>
-    <head>
-      <style>
-        h1 {
-          color: green;
-        }
-      </style>
-    </head>
-    <body>
-      <h1>This heading is green.</h1>
-    </body>
-    </html>
-    /* In your styles.css file */
-    body {
-      background-color: lightgray;
-    }
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
