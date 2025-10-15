@@ -11,3 +11,7 @@
       <h1>This heading is green.</h1>
     </body>
     </html>
+    /* In your styles.css file */
+    body {
+      background-color: lightgray;
+    }
